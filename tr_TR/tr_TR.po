@@ -38,11 +38,11 @@ msgid ""
 "<br /> Perhaps you would like to go to our <a href=\"%s\">home page</a>?"
 msgstr ""
 "Üzgünüz, ama aradığınız sayfa mevcut değil. <br /> Belki <a href=\"%s"
-"\">ana sayfası</a> gitmek istersiniz?"
+"\">anasayfaya</a> gitmek istersiniz?"
 
 #: archive.php:65
 msgid "Loading posts..."
-msgstr "Yazılar Yükleniyor..."
+msgstr "Yazılar yükleniyor..."
 
 #: archive.php:122 inc/laborator_woocommerce.php:269
 #: tpls/portfolio-listing.php:96 tpls/search-results.php:55
@@ -95,11 +95,11 @@ msgstr[1] "%d Yorum"
 
 #: comments.php:27
 msgid "Join the discussion and tell us your opinion."
-msgstr "Tartışmaya katılın ve bize görüş söyleyin."
+msgstr "Tartışmaya katılın ve bize görüşlerinizi bildirin."
 
 #: comments.php:27
 msgid "Be the first to comment on this article."
-msgstr "Bu yazı hakkında yorum yapan siz olun."
+msgstr "Bu yazı hakkında ilk yorum yapan siz olun."
 
 #: comments.php:38
 #, php-format
@@ -117,7 +117,7 @@ msgstr "Cevap bırak"
 
 #: comments.php:65
 msgid "Share your thoughts"
-msgstr "Düşüncelerinizi Paylaşın"
+msgstr "Düşüncelerinizi paylaşın"
 
 #: comments.php:66
 #, php-format
@@ -139,7 +139,7 @@ msgstr "cevap"
 #: inc/laborator_filters.php:435
 #, php-format
 msgid "%s at %s"
-msgstr "%s at %s"
+msgstr "%s - %s"
 
 #: inc/laborator_filters.php:439
 #, php-format
@@ -149,7 +149,7 @@ msgstr "Cevap: %s"
 #: inc/laborator_functions.php:132
 #, php-format
 msgid "Check out what I just spotted: %s"
-msgstr "Sadece gördüm ne göz atın: %s"
+msgstr "Bak senin için ne buldum: %s"
 
 #: inc/laborator_functions.php:139
 msgid "Print"
@@ -157,11 +157,11 @@ msgstr "Yazdır"
 
 #: inc/laborator_functions.php:513 inc/laborator_portfolio.php:807
 msgid "Show More"
-msgstr "Daha Fazla Göster"
+msgstr "Daha Fazla"
 
 #: inc/laborator_functions.php:514
 msgid "No more posts to show"
-msgstr "Hayır daha fazla içerik görmek için"
+msgstr "Gösterilecek daha fazla öğe yok"
 
 #: inc/laborator_portfolio.php:492
 msgid "Your browser does not support HTML5 video."
@@ -169,7 +169,7 @@ msgstr "Tarayıcınız HTML 5 video desteklemiyor."
 
 #: inc/laborator_portfolio.php:808
 msgid "No more portfolio items to show"
-msgstr "Artık portföy öğe göstermek için"
+msgstr "Daha fazla gösterilecek öğe bulunmamaktadır"
 
 #: inc/laborator_portfolio.php:1762
 #, php-format
@@ -180,7 +180,7 @@ msgstr "%s"
 #: inc/laborator_woocommerce.php:592
 #, php-format
 msgid "%s out of 5"
-msgstr "5 üzerinden %s"
+msgstr "5 - %s"
 
 #: inc/laborator_woocommerce.php:667
 msgid "Share this item:"
@@ -220,7 +220,7 @@ msgstr "&laquo; Geri dön"
 
 #: inc/laborator_woocommerce.php:1037
 msgid "Payment Method"
-msgstr "Ödeme Yöntem"
+msgstr "Ödeme Yöntemi"
 
 #: inc/laborator_woocommerce.php:1038
 msgid "Added to cart"
@@ -232,7 +232,7 @@ msgstr "Stokta yok"
 
 #: inc/laborator_woocommerce.php:1040
 msgid "Featured"
-msgstr "Öne Çıkan"
+msgstr "Öne Çıkarılmış"
 
 #: inc/laborator_woocommerce.php:1041
 #: inc/lib/vc/lab_products_carousel/init.php:162
